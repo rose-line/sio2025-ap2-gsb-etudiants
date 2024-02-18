@@ -1,6 +1,7 @@
-package fr.pgah;
+package fr.pgah.Controllers;
 
 import java.io.IOException;
+import fr.pgah.App;
 import javafx.fxml.FXML;
 
 public class AutreEcranController {

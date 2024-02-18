@@ -1,8 +1,9 @@
-package fr.pgah;
+package fr.pgah.Controllers;
 
 import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
+import fr.pgah.App;
 import fr.pgah.AccesBdd.AccesBdd;
 import fr.pgah.Model.Visiteur;
 import javafx.collections.FXCollections;
